@@ -46,3 +46,4 @@ AFA HaxApp es una versión optimizada de HaxBall diseñada para ofrecerte una ex
 # 🔗 **DISCORD OFICIAL DE AFA:** https://discord.gg/6F8xc758HQ
 
 # ⚠️ SOLO PARA SISTEMAS BASADOS EN WIN 32 - X64 ⚠️
+![banner2](https://github.com/AFA-HaxBall/AFA-HaxBall-Client/assets/173628698/58dc83ef-be00-44d4-a76e-52d0422ba598)
